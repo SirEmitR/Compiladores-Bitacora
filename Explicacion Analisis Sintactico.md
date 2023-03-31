@@ -12,7 +12,7 @@ Selecciono los que no tienen recursividad
 ```
 Seleccionamos los que tienen recursividad y los reescribimos
 ```
-	F- -> hFF' | dFF' | epsilon
+	F' -> hFF' | dFF' | epsilon
 ```
 ## Factorizacion
 ```
